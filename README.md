@@ -12,7 +12,7 @@ pnpm add flarum-api-client
 ## Usage
 
 ```js
-import FlarumAPIClient, { BaseResource } from 'flarum-api-client';
+import FlarumAPIClient from 'flarum-api-client';
 
 const client = new FlarumAPIClient('https://your-flarum-instance.com', {
   token: 'your-optional-api-token'
