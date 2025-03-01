@@ -1,0 +1,9 @@
+.github/
+__tests__/
+coverage/
+src/
+.eslintrc.js
+.gitignore
+jest.config.js
+tsconfig.json
+*.tgz
